@@ -1,7 +1,7 @@
 {% set version = "4.0.10" %}
 
 package:
-  name: python-decorator
+  name: decorator
   version: {{ version }}
 
 source:
