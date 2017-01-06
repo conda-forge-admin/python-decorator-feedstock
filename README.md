@@ -11,6 +11,18 @@ Summary: Better living through Python with decorators
 
 
 
+Current build status
+====================
+
+Linux: [![Circle CI](https://circleci.com/gh/conda-forge/decorator-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/decorator-feedstock)
+OSX: [![TravisCI](https://travis-ci.org/conda-forge/decorator-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/decorator-feedstock)
+Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/decorator-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/decorator-feedstock/branch/master)
+
+Current release info
+====================
+Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/decorator/badges/version.svg)](https://anaconda.org/conda-forge/decorator)
+Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/decorator/badges/downloads.svg)](https://anaconda.org/conda-forge/decorator)
+
 Installing decorator
 ====================
 
@@ -31,7 +43,6 @@ It is possible to list all of the versions of `decorator` available on your plat
 ```
 conda search decorator --channel conda-forge
 ```
-
 
 
 About conda-forge
@@ -67,18 +78,6 @@ Terminology
 
 **conda-forge** - the place where the feedstock and smithy live and work to
                   produce the finished article (built conda distributions)
-
-Current build status
-====================
-
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/python-decorator-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/python-decorator-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/python-decorator-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/python-decorator-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/python-decorator-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/python-decorator-feedstock/branch/master)
-
-Current release info
-====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/decorator/badges/version.svg)](https://anaconda.org/conda-forge/decorator)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/decorator/badges/downloads.svg)](https://anaconda.org/conda-forge/decorator)
 
 
 Updating decorator-feedstock
